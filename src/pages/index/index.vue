@@ -20,7 +20,7 @@
     <!-- <p v-if="info" class="pp">备注：{{info.eve}}</p> -->
     <van-button @click="today">返回今日</van-button>
     <van-button @click="dateInfo">日期信息</van-button>
-    <van-button @click="renderer">重新渲染年月日期</van-button>
+    <van-button @click="renderer">重新渲染年月日期1</van-button>
   </div>
 </template>
 
